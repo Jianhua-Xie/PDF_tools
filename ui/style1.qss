@@ -1,0 +1,17 @@
+QPushButton{
+    background-color:#DCDCDC;         /*背景白色*/
+    border-radius:15px;
+    font-size:20px;                 /*字体大小*/
+    min-height:50px;                /*最小高度*/
+    min-width:100px;                 /*最小宽度*/
+    }
+
+QPushButton:hover
+{
+    background-color:#B0C4DE;         /*鼠标悬停*/
+}
+
+QLabel{
+    background-color:#FFFFFF;         /*背景白色*/
+    border-radius:15px;
+    }

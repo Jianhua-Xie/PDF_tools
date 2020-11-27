@@ -1,0 +1,5 @@
+.QWidget{
+    background-color:#FFFFFF;        /*背景白色*/
+    min-height:50px;                /*最小高度*/
+    min-width:100px;                 /*最小宽度*/
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>合并pdf.PNG</file>
+    <file>拆分pdf2.png</file>
+  </qresource>
+</RCC>
